@@ -1,2 +1,3 @@
 # Di-Hou.github.io
-This is my website.
+Personal Website https://Di-Hou.github.io/
+Adapted from https://pingchuan.ma/
